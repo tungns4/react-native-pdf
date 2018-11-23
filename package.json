@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      "react-native-pdf@3.0.17",
+      "D:\\vcr1\\TOPKID"
+    ]
+  ],
+  "_from": "react-native-pdf@3.0.17",
+  "_id": "react-native-pdf@3.0.17",
+  "_inBundle": false,
+  "_integrity": "sha512-s9CMytV+IzL12vvnesCqGehclIPJBhFFQzsq4oU4Q8MWqTbNXXgYP0rME+uK4sWl7e/EZ12VZokJkdETgVHPfw==",
+  "_location": "/react-native-pdf",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-pdf@3.0.17",
+    "name": "react-native-pdf",
+    "escapedName": "react-native-pdf",
+    "rawSpec": "3.0.17",
+    "saveSpec": null,
+    "fetchSpec": "3.0.17"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-pdf/-/react-native-pdf-3.0.17.tgz",
+  "_spec": "3.0.17",
+  "_where": "D:\\vcr1\\TOPKID",
+  "author": {
+    "name": "Wonday",
+    "url": "https://github.com/wonday"
+  },
+  "bugs": {
+    "url": "https://github.com/wonday/react-native-pdf/issues"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "prop-types": "^15.5.10"
+  },
+  "description": "A react native PDF view component",
+  "homepage": "https://github.com/wonday/react-native-pdf#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "pdf",
+    "view",
+    "viewer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-pdf",
+  "peerDependencies": {
+    "react-native-fetch-blob": "^0.10.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonday/react-native-pdf.git"
+  },
+  "typings": "./index.d.ts",
+  "version": "3.0.17"
+}
